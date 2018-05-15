@@ -1,0 +1,17 @@
+buildscript {
+    ext.versions = [
+        'compileSdk': 27,
+        'targetSdk': 27,
+        'supportLibrary': '27.1.0',
+        'playServices': '11.8.0'
+    ]
+
+    repositories {
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.0.1'
+    }
+}
