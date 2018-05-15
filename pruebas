@@ -1,0 +1,3292 @@
+Su servidor esta corriendo por el puerto 8080
+Something is happening.
+Something is happening.
+emulator: ERROR: There's another emulator instance running with the current AVD 'Nexus_5X_API_26'. Exiting...
+
+Pruebas Enviadas
+
+Starting a Gradle Daemon (subsequent builds will be faster)
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 5m 43s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 28s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 27s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+
+me.kuehle.carreport.CarReportTest > testOtherIncomeTest[Nexus_5X_API_26(AVD) - 8.0.0] [31mFAILED [0m
+	java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.support.test.uiautomator.UiObject2.clickAndWait(android.support.test.uiautomator.EventCondition, long)' on a null object reference
+	at me.kuehle.carreport.CarReportTest.testOtherIncomeTest(CarReportTest.java:146)
+
+me.kuehle.carreport.CarReportTest > testRefuelingTest[Nexus_5X_API_26(AVD) - 8.0.0] [31mFAILED [0m
+	java.lang.NullPointerException: Attempt to invoke virtual method 'void android.support.test.uiautomator.UiObject2.click()' on a null object reference
+	at me.kuehle.carreport.CarReportTest.testRefuelingTest(CarReportTest.java:92)
+:app:connectedFossDebugAndroidTest FAILED
+55 actionable tasks: 3 executed, 52 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 26s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 24s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 31s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+
+me.kuehle.carreport.CarReportTest > testRefuelingTest[Nexus_5X_API_26(AVD) - 8.0.0] [31mFAILED [0m
+	java.lang.NullPointerException: Attempt to invoke virtual method 'void android.support.test.uiautomator.UiObject2.click()' on a null object reference
+	at me.kuehle.carreport.CarReportTest.testRefuelingTest(CarReportTest.java:92)
+:app:connectedFossDebugAndroidTest FAILED
+55 actionable tasks: 3 executed, 52 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+
+me.kuehle.carreport.CarReportTest > testOtherIncomeTest[Nexus_5X_API_26(AVD) - 8.0.0] [31mFAILED [0m
+	java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.support.test.uiautomator.UiObject2.clickAndWait(android.support.test.uiautomator.EventCondition, long)' on a null object reference
+	at me.kuehle.carreport.CarReportTest.testOtherIncomeTest(CarReportTest.java:146)
+:app:connectedFossDebugAndroidTest FAILED
+55 actionable tasks: 3 executed, 52 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 29s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+
+me.kuehle.carreport.CarReportTest > testRefuelingTest[Nexus_5X_API_26(AVD) - 8.0.0] [31mFAILED [0m
+	java.lang.NullPointerException: Attempt to invoke virtual method 'void android.support.test.uiautomator.UiObject2.click()' on a null object reference
+	at me.kuehle.carreport.CarReportTest.testRefuelingTest(CarReportTest.java:92)
+:app:connectedFossDebugAndroidTest FAILED
+55 actionable tasks: 3 executed, 52 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 23s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 22s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 29s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 24s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+
+me.kuehle.carreport.CarReportTest > testOtherExpenditureTest[Nexus_5X_API_26(AVD) - 8.0.0] [31mFAILED [0m
+	java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.support.test.uiautomator.UiObject2.clickAndWait(android.support.test.uiautomator.EventCondition, long)' on a null object reference
+	at me.kuehle.carreport.CarReportTest.testOtherExpenditureTest(CarReportTest.java:122)
+:app:connectedFossDebugAndroidTest FAILED
+55 actionable tasks: 3 executed, 52 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 35s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 30s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+
+me.kuehle.carreport.CarReportTest > testRefuelingTest[Nexus_5X_API_26(AVD) - 8.0.0] [31mFAILED [0m
+	java.lang.NullPointerException: Attempt to invoke virtual method 'void android.support.test.uiautomator.UiObject2.click()' on a null object reference
+	at me.kuehle.carreport.CarReportTest.testRefuelingTest(CarReportTest.java:92)
+:app:connectedFossDebugAndroidTest FAILED
+55 actionable tasks: 3 executed, 52 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 38s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 26s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 26s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:preFullDebugBuild UP-TO-DATE
+:app:compileFullDebugAidl UP-TO-DATE
+:app:compileFullDebugRenderscript UP-TO-DATE
+:app:checkFullDebugManifest UP-TO-DATE
+:app:generateFullDebugBuildConfig UP-TO-DATE
+:app:generateFullDebugResValues UP-TO-DATE
+:app:generateFullDebugResources UP-TO-DATE
+:app:mergeFullDebugResources UP-TO-DATE
+:app:createFullDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFullDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebug UP-TO-DATE
+:app:processFullDebugResources UP-TO-DATE
+:app:generateFullDebugSources UP-TO-DATE
+:app:javaPreCompileFullDebug UP-TO-DATE
+:app:compileFullDebugJavaWithJavac UP-TO-DATE
+:app:compileFullDebugNdk NO-SOURCE
+:app:compileFullDebugSources UP-TO-DATE
+:app:mergeFullDebugShaders UP-TO-DATE
+:app:compileFullDebugShaders UP-TO-DATE
+:app:generateFullDebugAssets UP-TO-DATE
+:app:mergeFullDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFullDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebug UP-TO-DATE
+:app:mergeFullDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebug UP-TO-DATE
+:app:processFullDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebug UP-TO-DATE
+:app:validateSigningFullDebug
+:app:packageFullDebug UP-TO-DATE
+:app:assembleFullDebug UP-TO-DATE
+:app:bundleAppClassesFullDebug UP-TO-DATE
+:app:preFullDebugAndroidTestBuild UP-TO-DATE
+:app:compileFullDebugAndroidTestAidl UP-TO-DATE
+:app:processFullDebugAndroidTestManifest UP-TO-DATE
+:app:compileFullDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFullDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFullDebugAndroidTestResValues UP-TO-DATE
+:app:generateFullDebugAndroidTestResources UP-TO-DATE
+:app:mergeFullDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestResources UP-TO-DATE
+:app:generateFullDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFullDebugAndroidTest UP-TO-DATE
+:app:compileFullDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFullDebugAndroidTestNdk NO-SOURCE
+:app:compileFullDebugAndroidTestSources UP-TO-DATE
+:app:mergeFullDebugAndroidTestShaders UP-TO-DATE
+:app:compileFullDebugAndroidTestShaders UP-TO-DATE
+:app:generateFullDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFullDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFullDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFullDebugAndroidTest UP-TO-DATE
+:app:mergeFullDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFullDebugAndroidTest UP-TO-DATE
+:app:processFullDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFullDebugAndroidTest UP-TO-DATE
+:app:validateSigningFullDebugAndroidTest
+:app:packageFullDebugAndroidTest UP-TO-DATE
+:app:assembleFullDebugAndroidTest UP-TO-DATE
+:app:connectedFullDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+:app:connectedAndroidTest UP-TO-DATE
+:app:connectedCheck UP-TO-DATE
+
+BUILD SUCCESSFUL in 4m 46s
+110 actionable tasks: 6 executed, 104 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+
+me.kuehle.carreport.CarReportTest > testOtherIncomeTest[Nexus_5X_API_26(AVD) - 8.0.0] [31mFAILED [0m
+	java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.support.test.uiautomator.UiObject2.clickAndWait(android.support.test.uiautomator.EventCondition, long)' on a null object reference
+	at me.kuehle.carreport.CarReportTest.testOtherIncomeTest(CarReportTest.java:146)
+:app:connectedFossDebugAndroidTest FAILED
+55 actionable tasks: 3 executed, 52 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+
+me.kuehle.carreport.CarReportTest > testRefuelingTest[Nexus_5X_API_26(AVD) - 8.0.0] [31mFAILED [0m
+	java.lang.NullPointerException: Attempt to invoke virtual method 'void android.support.test.uiautomator.UiObject2.click()' on a null object reference
+	at me.kuehle.carreport.CarReportTest.testRefuelingTest(CarReportTest.java:92)
+:app:connectedFossDebugAndroidTest FAILED
+55 actionable tasks: 3 executed, 52 up-to-date
+
+:app:preBuild UP-TO-DATE
+:app:preFossDebugBuild UP-TO-DATE
+:app:compileFossDebugAidl UP-TO-DATE
+:app:compileFossDebugRenderscript UP-TO-DATE
+:app:checkFossDebugManifest UP-TO-DATE
+:app:generateFossDebugBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:generateFossDebugResValues UP-TO-DATE
+:app:generateFossDebugResources UP-TO-DATE
+:app:mergeFossDebugResources UP-TO-DATE
+:app:createFossDebugCompatibleScreenManifests UP-TO-DATE
+:app:processFossDebugManifest UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebug UP-TO-DATE
+:app:processFossDebugResources UP-TO-DATE
+:app:generateFossDebugSources UP-TO-DATE
+:app:javaPreCompileFossDebug UP-TO-DATE
+:app:compileFossDebugJavaWithJavac UP-TO-DATE
+:app:compileFossDebugNdk NO-SOURCE
+:app:compileFossDebugSources UP-TO-DATE
+:app:mergeFossDebugShaders UP-TO-DATE
+:app:compileFossDebugShaders UP-TO-DATE
+:app:generateFossDebugAssets UP-TO-DATE
+:app:mergeFossDebugAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebug UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebug UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebug UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebug UP-TO-DATE
+:app:transformClassesWithMultidexlistForFossDebug UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebug UP-TO-DATE
+:app:mergeFossDebugJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebug UP-TO-DATE
+:app:processFossDebugJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebug UP-TO-DATE
+:app:validateSigningFossDebug
+:app:packageFossDebug UP-TO-DATE
+:app:assembleFossDebug UP-TO-DATE
+:app:bundleAppClassesFossDebug UP-TO-DATE
+:app:preFossDebugAndroidTestBuild UP-TO-DATE
+:app:compileFossDebugAndroidTestAidl UP-TO-DATE
+:app:processFossDebugAndroidTestManifest UP-TO-DATE
+:app:compileFossDebugAndroidTestRenderscript UP-TO-DATE
+:app:generateFossDebugAndroidTestBuildConfig UP-TO-DATE
+:app:generateFossDebugAndroidTestResValues UP-TO-DATE
+:app:generateFossDebugAndroidTestResources UP-TO-DATE
+:app:mergeFossDebugAndroidTestResources UP-TO-DATE
+:app:splitsDiscoveryTaskFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestResources UP-TO-DATE
+:app:generateFossDebugAndroidTestSources UP-TO-DATE
+:app:javaPreCompileFossDebugAndroidTest UP-TO-DATE
+:app:compileFossDebugAndroidTestJavaWithJavac UP-TO-DATE
+:app:compileFossDebugAndroidTestNdk NO-SOURCE
+:app:compileFossDebugAndroidTestSources UP-TO-DATE
+:app:mergeFossDebugAndroidTestShaders UP-TO-DATE
+:app:compileFossDebugAndroidTestShaders UP-TO-DATE
+:app:generateFossDebugAndroidTestAssets UP-TO-DATE
+:app:mergeFossDebugAndroidTestAssets UP-TO-DATE
+:app:extractTryWithResourcesSupportJarFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithStackFramesFixerForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDesugarForFossDebugAndroidTest UP-TO-DATE
+:app:transformClassesWithDexBuilderForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForFossDebugAndroidTest UP-TO-DATE
+:app:mergeFossDebugAndroidTestJniLibFolders UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForFossDebugAndroidTest UP-TO-DATE
+:app:processFossDebugAndroidTestJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForFossDebugAndroidTest UP-TO-DATE
+:app:validateSigningFossDebugAndroidTest
+:app:packageFossDebugAndroidTest UP-TO-DATE
+:app:assembleFossDebugAndroidTest UP-TO-DATE
+:app:connectedFossDebugAndroidTest
+Starting 15 tests on Nexus_5X_API_26(AVD) - 8.0.0
+
+
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+Success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
